@@ -1,7 +1,8 @@
 # tictactoe
 Juego de gato
 
-Instalar y arrancar con:
+Instala , arranca servidor y juega 
 
+sudo npm install --global babel-cli
 npm install
 npm start
